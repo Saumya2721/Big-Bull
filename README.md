@@ -1,4 +1,4 @@
-# Big Bull 📈
+# Big Bull 
 
 Big Bull is a full-stack Indian stock market trading simulation platform. It allows users to simulate trading with real-time market data, manage a virtual portfolio, track watchlist instruments, and execute simulated trades with a custom-built order matching engine.
 
